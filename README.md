@@ -4,6 +4,14 @@ A fun and interactive *Tic Tac Toe* game built using *HTML, **CSS, and **JavaScr
 
 ---
 
+## 📸 Screenshot
+
+Here is a preview of the game:
+
+![Tic Tac Toe Screenshot](screenshot.png.png)
+
+---
+
 ## 📌 Table of Contents
 
 - [Features](#-features)
@@ -62,14 +70,6 @@ Anyone can run this project easily by following these steps:
    - Save the file and open it in your browser
 
 ✅ Enjoy playing Tic Tac Toe right in your browser!
-
----
-
-## 📸 Screenshot
-
-Here is a preview of the game:
-
-![Tic Tac Toe Screenshot](screenshot.png.png)
 
 ---
 
